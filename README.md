@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
