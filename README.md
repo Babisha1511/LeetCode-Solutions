@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
