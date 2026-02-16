@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
