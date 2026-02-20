@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1693-daily-leads-and-partners](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
 ## Counting
 |  |
 | ------- |
