@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0455-assign-cookies) |
