@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0504-base-7) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Database
 |  |
