@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [3731-find-missing-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
