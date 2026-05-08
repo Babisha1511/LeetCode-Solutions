@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
