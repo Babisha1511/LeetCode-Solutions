@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0415-add-strings) |
