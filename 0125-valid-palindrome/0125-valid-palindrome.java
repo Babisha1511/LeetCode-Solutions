@@ -7,15 +7,14 @@ class Solution {
                 sb.append(s.charAt(i));
             }
         }
-        String ch=sb.toString();
-        int i=0;
-        int j=ch.length()-1;
-        while(i<j){
-            if(ch.charAt(i)!=ch.charAt(j)){
+        int l=0;
+        int h=sb.length()-1;
+        while(l<h){
+            if(sb.charAt(l)!=sb.charAt(h)){
                 return false;
             }
-            i++;
-            j--;
+            l++;
+            h--;
         }
         return true;
     }
