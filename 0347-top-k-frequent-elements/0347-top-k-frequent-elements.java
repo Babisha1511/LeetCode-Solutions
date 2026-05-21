@@ -1,35 +1,18 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        Map<Integer,Integer> count=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            if(!count.containsKey(nums[i])){
-                count.put(nums[i],0);
-            }
-                count.put(nums[i],count.get(nums[i])+1);
+       HashMap<Integer,Integer> map=new HashMap<>();
+       for(int i=0;i<nums.length;i++){
+        map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+       }
+       List<Map.Entry<Integer,Integer>> list=new ArrayList<>(map.entrySet());
+       list.sort((a,b)->b.getValue().compareTo(a.getValue()));
+       int[] ans=new int[k];
+       int i=0;
+       for(Map.Entry<Integer,Integer> m:list){
+        if(k-->0){
+          ans[i++]=m.getKey();
         }
-        Map<Integer,List<Integer>> revcount=new HashMap<>();
-        for(int num:count.keySet()){
-            if(!revcount.containsKey(count.get(num))){
-                revcount.put(count.get(num),new ArrayList<>());
-            }
-            revcount.get(count.get(num)).add(num);
-        }
-        int[] result=new int[k];
-        int in=0;
-        for(int i=nums.length;i>=1;i--){
-            if(revcount.containsKey(i)){
-                for(int n:revcount.get(i)){
-                    if(in<k){
-                        result[in++]=n;
-                    } else {
-                        break;
-                    }
-                }
-            }
-            if(in>=k){
-                break;
-            }
-        }
-        return result;
+       }
+       return ans;
     }
 }
