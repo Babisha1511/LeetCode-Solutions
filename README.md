@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0504-base-7) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Database
 |  |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
