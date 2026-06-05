@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1470-shuffle-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
