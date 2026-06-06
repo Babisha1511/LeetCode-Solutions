@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3945-digit-frequency-score](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
 | ------- |
