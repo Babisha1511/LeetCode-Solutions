@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Number Theory
 |  |
 | ------- |
