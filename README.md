@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3046-split-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3046-split-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3046-split-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
