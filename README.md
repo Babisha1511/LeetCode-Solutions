@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
