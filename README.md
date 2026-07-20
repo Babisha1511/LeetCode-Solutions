@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Matrix
 |  |
 | ------- |
