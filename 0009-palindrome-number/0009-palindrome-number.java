@@ -7,7 +7,9 @@ class Solution {
         rev=rev*10+ld;
         x/=10;
        }
-       return rev==a;
+       if(a==rev){
+          return true;
+       }
+       return false;
     }
-    
 }
