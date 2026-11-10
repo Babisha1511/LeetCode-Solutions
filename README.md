@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Babisha1511/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
